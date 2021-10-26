@@ -37,10 +37,10 @@ googleAnalytics = "UA-XXXXXXXX-XX"
   weight = 3
 
 [[params.nav]]
-  identifier = "categories"
-  name = "Category"
+  identifier = "events"
+  name = "Events"
   icon = "fas fa-folder-open fa-lg"
-  url = "categories"
+  url = "events"
   weight = 3
 
 [[params.nav]]
